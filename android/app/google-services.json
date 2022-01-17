@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "424157269988",
+    "firebase_url": "https://classroots-a1.firebaseio.com",
+    "project_id": "classroots-a1",
+    "storage_bucket": "classroots-a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424157269988:android:378dfa36630d62ff",
+        "android_client_info": {
+          "package_name": "app.classroots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424157269988-gfg4m6m0s8un25vnp3t9s0igeeeccnp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "xxxxxx"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
